@@ -76,9 +76,7 @@ As an **Analytics Engineer**, my objective was to:
 ├── .gitignore                    # Ignored files & folders
 ├── README.md                     # Project documentation
 └── LICENSE                       # License file
-
-
----
+```
 
 ## 🧠 Task Summary  
 
