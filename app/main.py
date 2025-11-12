@@ -1,5 +1,8 @@
 import streamlit as st
-from .utils import load_data, get_summary_stats, plot_boxplots, plot_avg_bar, generate_heatmap
+from utils import load_data, get_summary_stats, plot_boxplots, plot_avg_bar, generate_heatmap
+import sys
+import os
+sys.path.append(os.path.dirname(__file__))
 
 st.set_page_config(
     page_title="Solar Data Comparison Dashboard",
