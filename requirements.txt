@@ -8,16 +8,16 @@ seaborn==0.13.2
 plotly==5.24.1
 
 # Statistical analysis
-scipy==1.13.1
+scipy==1.11.4  
 
-# Streamlit dashboard (bonus / optional)
+# Streamlit dashboard
 streamlit==1.39.0
 
 # Jupyter & notebooks
 notebook==7.2.2
 ipykernel==6.29.5
 
-# Quality assurance & linting (optional but good practice)
+# Quality assurance & linting 
 black==24.8.0
 flake8==7.1.1
 
